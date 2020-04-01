@@ -12,6 +12,11 @@ Done worry about the dependencies, there are no imports to speak of. The game an
 game's engine are all written in native python. Not that there is much of a game engine,
 or really that much of a game...
 
+Make sure you put your position inputs as X, Y and not something
+dumb like (X, Y) or XY.
+
+Might have some problems with  more than three players, but I am sure you can figure it out. A simple solution to this is to not have three people play.
+
 ## Why upload to github?
 
 Nothing stopping me, even with something as small as this.
